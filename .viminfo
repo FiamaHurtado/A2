@@ -18,7 +18,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1683209965,,"wq"
+|2,0,1683502570,,"wq"
+:WQ
+|2,0,1683500016,,"WQ"
 :wp
 |2,0,1681743022,,"wp"
 :wq!
@@ -60,230 +62,381 @@ $
 # global variables:
 
 # File marks:
-'0  21  0  ~/EstupiñanKerinsumaVN.cpp
-|4,48,21,0,1683209965,"~/EstupiñanKerinsumaVN.cpp"
-'1  18  0  ~/EstupiñanKerinsuma.cpp
-|4,49,18,0,1683209908,"~/EstupiñanKerinsuma.cpp"
-'2  17  0  ~/EstupiñanKerinfuncion.cpp
-|4,50,17,0,1683209846,"~/EstupiñanKerinfuncion.cpp"
-'3  12  0  ~/EstupiñanKerinsumav.cpp
-|4,51,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
-'4  12  0  ~/EstupiñanKerinsumav.cpp
-|4,52,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
-'5  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,53,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
-'6  20  0  ~/hurtadofiamasuma.cpp
-|4,54,20,0,1683120087,"~/hurtadofiamasuma.cpp"
-'7  21  0  ~/hurtadofiamasumav.cpp
-|4,55,21,0,1683120000,"~/hurtadofiamasumav.cpp"
-'8  9  5  ~/hurtadofiamafuncion.cpp
-|4,56,9,5,1682515832,"~/hurtadofiamafuncion.cpp"
-'9  1  0  ~/hurtadofuncion.cpp
-|4,57,1,0,1682515694,"~/hurtadofuncion.cpp"
+'0  9  0  ~/Ordena4.cpp
+|4,48,9,0,1683502570,"~/Ordena4.cpp"
+'1  8  25  ~/Ordena4.cpp
+|4,49,8,25,1683502512,"~/Ordena4.cpp"
+'2  9  3  ~/Ordena4.cpp
+|4,50,9,3,1683502512,"~/Ordena4.cpp"
+'3  8  25  ~/Ordena4.cpp
+|4,51,8,25,1683502450,"~/Ordena4.cpp"
+'4  9  3  ~/Ordena4.cpp
+|4,52,9,3,1683502450,"~/Ordena4.cpp"
+'5  7  21  ~/Ordena4.cpp
+|4,53,7,21,1683502366,"~/Ordena4.cpp"
+'6  7  21  ~/Ordena4.cpp
+|4,54,7,21,1683502366,"~/Ordena4.cpp"
+'7  7  21  ~/Ordena4.cpp
+|4,55,7,21,1683502366,"~/Ordena4.cpp"
+'8  7  21  ~/Ordena4.cpp
+|4,56,7,21,1683502366,"~/Ordena4.cpp"
+'9  7  21  ~/Ordena4.cpp
+|4,57,7,21,1683502366,"~/Ordena4.cpp"
 
 # Jumplist (newest first):
--'  21  0  ~/EstupiñanKerinsumaVN.cpp
-|4,39,21,0,1683209965,"~/EstupiñanKerinsumaVN.cpp"
--'  1  0  ~/EstupiñanKerinsumaVN.cpp
-|4,39,1,0,1683209949,"~/EstupiñanKerinsumaVN.cpp"
--'  18  0  ~/EstupiñanKerinsuma.cpp
-|4,39,18,0,1683209908,"~/EstupiñanKerinsuma.cpp"
--'  18  0  ~/EstupiñanKerinsuma.cpp
-|4,39,18,0,1683209908,"~/EstupiñanKerinsuma.cpp"
--'  1  0  ~/EstupiñanKerinsuma.cpp
-|4,39,1,0,1683209889,"~/EstupiñanKerinsuma.cpp"
--'  1  0  ~/EstupiñanKerinsuma.cpp
-|4,39,1,0,1683209889,"~/EstupiñanKerinsuma.cpp"
--'  17  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,17,0,1683209846,"~/EstupiñanKerinfuncion.cpp"
--'  17  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,17,0,1683209846,"~/EstupiñanKerinfuncion.cpp"
--'  17  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,17,0,1683209846,"~/EstupiñanKerinfuncion.cpp"
--'  17  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,17,0,1683209846,"~/EstupiñanKerinfuncion.cpp"
--'  1  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,1,0,1683209825,"~/EstupiñanKerinfuncion.cpp"
--'  1  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,1,0,1683209825,"~/EstupiñanKerinfuncion.cpp"
--'  1  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,1,0,1683209825,"~/EstupiñanKerinfuncion.cpp"
--'  1  0  ~/EstupiñanKerinfuncion.cpp
-|4,39,1,0,1683209825,"~/EstupiñanKerinfuncion.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209766,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  12  0  ~/EstupiñanKerinsumav.cpp
-|4,39,12,0,1683209694,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  1  0  ~/EstupiñanKerinsumav.cpp
-|4,39,1,0,1683209687,"~/EstupiñanKerinsumav.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  23  2  ~/EstupiñanKerinmatriz.cpp
-|4,39,23,2,1683209635,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
--'  1  0  ~/EstupiñanKerinmatriz.cpp
-|4,39,1,0,1683209600,"~/EstupiñanKerinmatriz.cpp"
+-'  9  0  ~/Ordena4.cpp
+|4,39,9,0,1683502570,"~/Ordena4.cpp"
+-'  8  25  ~/Ordena4.cpp
+|4,39,8,25,1683502528,"~/Ordena4.cpp"
+-'  9  3  ~/Ordena4.cpp
+|4,39,9,3,1683502512,"~/Ordena4.cpp"
+-'  9  3  ~/Ordena4.cpp
+|4,39,9,3,1683502450,"~/Ordena4.cpp"
+-'  7  21  ~/Ordena4.cpp
+|4,39,7,21,1683502397,"~/Ordena4.cpp"
+-'  7  21  ~/Ordena4.cpp
+|4,39,7,21,1683502397,"~/Ordena4.cpp"
+-'  7  21  ~/Ordena4.cpp
+|4,39,7,21,1683502397,"~/Ordena4.cpp"
+-'  7  21  ~/Ordena4.cpp
+|4,39,7,21,1683502366,"~/Ordena4.cpp"
+-'  10  0  ~/Ordena4.cpp
+|4,39,10,0,1683502340,"~/Ordena4.cpp"
+-'  10  0  ~/Ordena4.cpp
+|4,39,10,0,1683502340,"~/Ordena4.cpp"
+-'  10  0  ~/Ordena4.cpp
+|4,39,10,0,1683502340,"~/Ordena4.cpp"
+-'  10  0  ~/Ordena4.cpp
+|4,39,10,0,1683502340,"~/Ordena4.cpp"
+-'  10  0  ~/Ordena4.cpp
+|4,39,10,0,1683502327,"~/Ordena4.cpp"
+-'  28  31  ~/Ordena4.cpp
+|4,39,28,31,1683502308,"~/Ordena4.cpp"
+-'  28  31  ~/Ordena4.cpp
+|4,39,28,31,1683502308,"~/Ordena4.cpp"
+-'  28  31  ~/Ordena4.cpp
+|4,39,28,31,1683502308,"~/Ordena4.cpp"
+-'  28  31  ~/Ordena4.cpp
+|4,39,28,31,1683502308,"~/Ordena4.cpp"
+-'  28  31  ~/Ordena4.cpp
+|4,39,28,31,1683502308,"~/Ordena4.cpp"
+-'  28  31  ~/Ordena4.cpp
+|4,39,28,31,1683502285,"~/Ordena4.cpp"
+-'  31  0  ~/Ordena4.cpp
+|4,39,31,0,1683502177,"~/Ordena4.cpp"
+-'  31  0  ~/Ordena4.cpp
+|4,39,31,0,1683502177,"~/Ordena4.cpp"
+-'  31  0  ~/Ordena4.cpp
+|4,39,31,0,1683502177,"~/Ordena4.cpp"
+-'  31  0  ~/Ordena4.cpp
+|4,39,31,0,1683502177,"~/Ordena4.cpp"
+-'  31  0  ~/Ordena4.cpp
+|4,39,31,0,1683502177,"~/Ordena4.cpp"
+-'  31  0  ~/Ordena4.cpp
+|4,39,31,0,1683502177,"~/Ordena4.cpp"
+-'  31  0  ~/Ordena4.cpp
+|4,39,31,0,1683502075,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502030,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502030,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502030,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502030,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502030,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502030,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502030,"~/Ordena4.cpp"
+-'  26  4  ~/Ordena4.cpp
+|4,39,26,4,1683502018,"~/Ordena4.cpp"
+-'  8  21  ~/Ordena4.cpp
+|4,39,8,21,1683501950,"~/Ordena4.cpp"
+-'  8  21  ~/Ordena4.cpp
+|4,39,8,21,1683501950,"~/Ordena4.cpp"
+-'  8  21  ~/Ordena4.cpp
+|4,39,8,21,1683501950,"~/Ordena4.cpp"
+-'  8  21  ~/Ordena4.cpp
+|4,39,8,21,1683501950,"~/Ordena4.cpp"
+-'  8  21  ~/Ordena4.cpp
+|4,39,8,21,1683501950,"~/Ordena4.cpp"
+-'  8  21  ~/Ordena4.cpp
+|4,39,8,21,1683501950,"~/Ordena4.cpp"
+-'  8  21  ~/Ordena4.cpp
+|4,39,8,21,1683501950,"~/Ordena4.cpp"
+-'  9  0  ~/Ordena4.cpp
+|4,39,9,0,1683501931,"~/Ordena4.cpp"
+-'  9  0  ~/Ordena4.cpp
+|4,39,9,0,1683501931,"~/Ordena4.cpp"
+-'  9  0  ~/Ordena4.cpp
+|4,39,9,0,1683501931,"~/Ordena4.cpp"
+-'  10  11  ~/Ordena4.cpp
+|4,39,10,11,1683501906,"~/Ordena4.cpp"
+-'  10  11  ~/Ordena4.cpp
+|4,39,10,11,1683501906,"~/Ordena4.cpp"
+-'  10  11  ~/Ordena4.cpp
+|4,39,10,11,1683501906,"~/Ordena4.cpp"
+-'  10  11  ~/Ordena4.cpp
+|4,39,10,11,1683501906,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  11  11  ~/Ordena4.cpp
+|4,39,11,11,1683501831,"~/Ordena4.cpp"
+-'  10  3  ~/Ordena4.cpp
+|4,39,10,3,1683501754,"~/Ordena4.cpp"
+-'  11  0  ~/Ordena4.cpp
+|4,39,11,0,1683501735,"~/Ordena4.cpp"
+-'  10  0  ~/Ordena4.cpp
+|4,39,10,0,1683501686,"~/Ordena4.cpp"
+-'  10  0  ~/Ordena4.cpp
+|4,39,10,0,1683501637,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  5  ~/Ordena4.cpp
+|4,39,18,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  19  5  ~/Ordena4.cpp
+|4,39,19,5,1683501611,"~/Ordena4.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
+-'  18  0  ~/PromedioMaximo.cpp
+|4,39,18,0,1683501605,"~/PromedioMaximo.cpp"
 
 # History of marks within files (newest to oldest):
+
+> ~/Ordena4.cpp
+	*	1683502567	0
+	"	9	0
+	^	9	1
+	.	9	0
+	+	30	13
+	+	1	1
+	+	6	0
+	+	7	1
+	+	8	1
+	+	8	22
+	+	8	26
+	+	11	0
+	+	12	2
+	+	12	15
+	+	13	11
+	+	14	14
+	+	13	0
+	+	13	9
+	+	15	0
+	+	15	10
+	+	16	10
+	+	18	0
+	+	19	0
+	+	20	4
+	+	20	10
+	+	21	11
+	+	22	0
+	+	23	0
+	+	23	10
+	+	24	9
+	+	21	15
+	+	25	110
+	+	26	0
+	+	26	11
+	+	27	10
+	+	28	51
+	+	29	0
+	+	29	82
+	+	30	11
+	+	28	46
+	+	28	10
+	+	25	10
+	+	22	0
+	+	8	21
+	+	12	0
+	+	14	0
+	+	8	22
+	+	8	25
+	+	11	0
+	+	8	37
+	+	8	36
+	+	8	25
+	+	8	21
+	+	31	0
+	+	8	22
+	+	11	0
+	+	8	25
+	+	28	31
+	+	10	0
+	+	8	21
+	+	8	25
+	+	10	10
+	+	9	0
+
+> ~/PromedioMaximo.cpp
+	*	1683501597	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	1	249
+	+	1	49
+	+	1	63
+	+	1	75
+	+	1	104
+	+	1	1
+	+	1	105
+	+	1	135
+	+	1	142
+	+	1	152
+	+	1	160
+	+	1	163
+	+	1	172
+	+	1	235
+	+	1	249
+	+	1	105
+	+	1	152
+	+	1	104
+	+	1	105
+	+	1	162
+	+	1	105
+	+	1	166
+	+	1	251
+	+	1	106
+	+	1	166
+	+	18	0
+
+> ~/Cronómetro.cpp
+	*	1683499291	0
+	"	27	0
+	^	27	0
+	.	26	11
+	+	28	0
+	+	3	57
+	+	5	0
+	+	5	34
+	+	6	46
+	+	1	17
+	+	1	18
+	+	5	8
+	+	6	47
+	+	7	17
+	+	8	48
+	+	9	17
+	+	11	0
+	+	12	0
+	+	12	9
+	+	14	0
+	+	14	1
+	+	15	9
+	+	16	10
+	+	18	0
+	+	18	9
+	+	20	0
+	+	20	1
+	+	21	9
+	+	22	9
+	+	23	19
+	+	24	75
+	+	24	82
+	+	25	50
+	+	26	11
+
+> ~/ordena4.cpp
+	*	1683497544	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	37	0
+
+> ~/crononetro.cpp
+	*	1683497504	0
+	"	24	0
+	^	24	1
+	.	24	0
+	+	24	0
+
+> ~/cronometro
+	*	1683497430	0
+	"	1	0
 
 > ~/EstupiñanKerinsumaVN.cpp
 	*	1683209961	0
